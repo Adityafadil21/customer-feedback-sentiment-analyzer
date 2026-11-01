@@ -1,0 +1,73 @@
+id,date,category,feedback,sentiment
+FB001,2026-08-01,Pelayanan,"Pelayanannya sangat cepat dan ramah, saya puas sekali.",Positive
+FB002,2026-08-04,Aplikasi,Pelayanan sangat lambat dan pegawainya kurang ramah.,Negative
+FB003,2026-08-07,Harga,Produk sudah diterima kemarin sore.,Neutral
+FB004,2026-08-10,Aplikasi,"Produk bagus, kualitas sesuai dengan harga.",Positive
+FB005,2026-08-13,Harga,"Produk mengecewakan, kualitas tidak sesuai harapan.",Negative
+FB006,2026-08-16,Produk,Saya mencoba layanan ini untuk pertama kali.,Neutral
+FB007,2026-08-19,Harga,Aplikasi mudah digunakan dan tampilannya menarik.,Positive
+FB008,2026-08-22,Produk,Aplikasi sering error dan sulit digunakan.,Negative
+FB009,2026-08-25,Pengiriman,Paket datang sekitar tiga hari setelah pemesanan.,Neutral
+FB010,2026-08-28,Produk,"Pengiriman tepat waktu, paket sampai dengan aman.",Positive
+FB011,2026-08-31,Pengiriman,"Pengiriman terlambat, paket datang dalam kondisi rusak.",Negative
+FB012,2026-09-03,Pelayanan,Tampilan aplikasi memiliki beberapa menu utama.,Neutral
+FB013,2026-09-06,Pengiriman,Admin responsif dan membantu menyelesaikan masalah.,Positive
+FB014,2026-09-09,Pelayanan,Admin tidak merespons keluhan saya.,Negative
+FB015,2026-09-12,Aplikasi,Harga produk tercantum pada halaman katalog.,Neutral
+FB016,2026-09-15,Pelayanan,"Pengalaman belanja menyenangkan, pasti akan kembali.",Positive
+FB017,2026-09-18,Aplikasi,"Pengalaman belanja buruk, saya tidak akan kembali.",Negative
+FB018,2026-09-21,Harga,Saya menggunakan layanan ini pada akhir pekan.,Neutral
+FB019,2026-09-24,Aplikasi,Harga terjangkau dan kualitasnya memuaskan.,Positive
+FB020,2026-09-27,Harga,Harga terlalu mahal untuk kualitas seperti ini.,Negative
+FB021,2026-09-30,Produk,Pesanan dibuat melalui aplikasi pada pagi hari.,Neutral
+FB022,2026-10-03,Harga,Fitur baru sangat membantu pekerjaan saya.,Positive
+FB023,2026-10-06,Produk,Fitur sering bermasalah dan tidak membantu.,Negative
+FB024,2026-10-09,Pengiriman,Terdapat pilihan pembayaran transfer dan tunai.,Neutral
+FB025,2026-10-12,Produk,Proses pembayaran lancar tanpa kendala.,Positive
+FB026,2026-10-15,Pengiriman,Pembayaran gagal berkali-kali tanpa penjelasan.,Negative
+FB027,2026-10-18,Pelayanan,Saya membaca informasi produk sebelum membeli.,Neutral
+FB028,2026-10-21,Pengiriman,"Tempat bersih, nyaman, dan pelayanannya baik.",Positive
+FB029,2026-10-24,Pelayanan,Tempat kotor dan pelayanannya sangat buruk.,Negative
+FB030,2026-10-27,Aplikasi,Lokasi toko berada tidak jauh dari rumah.,Neutral
+FB031,2026-08-01,Pelayanan,Respon customer service cepat dan solutif.,Positive
+FB032,2026-08-04,Aplikasi,Customer service tidak memberikan solusi.,Negative
+FB033,2026-08-07,Harga,Akun saya dibuat pada bulan ini.,Neutral
+FB034,2026-08-10,Aplikasi,"Barang sesuai deskripsi, kualitasnya bagus.",Positive
+FB035,2026-08-13,Harga,Barang tidak sesuai deskripsi dan mengecewakan.,Negative
+FB036,2026-08-16,Produk,Pembaruan aplikasi tersedia sejak minggu lalu.,Neutral
+FB037,2026-08-19,Harga,"Pelayanannya sangat cepat dan ramah, saya puas sekali.",Positive
+FB038,2026-08-22,Produk,Pelayanan sangat lambat dan pegawainya kurang ramah.,Negative
+FB039,2026-08-25,Pengiriman,Produk sudah diterima kemarin sore.,Neutral
+FB040,2026-08-28,Produk,"Produk bagus, kualitas sesuai dengan harga.",Positive
+FB041,2026-08-31,Pengiriman,"Produk mengecewakan, kualitas tidak sesuai harapan.",Negative
+FB042,2026-09-03,Pelayanan,Saya mencoba layanan ini untuk pertama kali.,Neutral
+FB043,2026-09-06,Pengiriman,Aplikasi mudah digunakan dan tampilannya menarik.,Positive
+FB044,2026-09-09,Pelayanan,Aplikasi sering error dan sulit digunakan.,Negative
+FB045,2026-09-12,Aplikasi,Paket datang sekitar tiga hari setelah pemesanan.,Neutral
+FB046,2026-09-15,Pelayanan,"Pengiriman tepat waktu, paket sampai dengan aman.",Positive
+FB047,2026-09-18,Aplikasi,"Pengiriman terlambat, paket datang dalam kondisi rusak.",Negative
+FB048,2026-09-21,Harga,Tampilan aplikasi memiliki beberapa menu utama.,Neutral
+FB049,2026-09-24,Aplikasi,Admin responsif dan membantu menyelesaikan masalah.,Positive
+FB050,2026-09-27,Harga,Admin tidak merespons keluhan saya.,Negative
+FB051,2026-09-30,Produk,Harga produk tercantum pada halaman katalog.,Neutral
+FB052,2026-10-03,Harga,"Pengalaman belanja menyenangkan, pasti akan kembali.",Positive
+FB053,2026-10-06,Produk,"Pengalaman belanja buruk, saya tidak akan kembali.",Negative
+FB054,2026-10-09,Pengiriman,Saya menggunakan layanan ini pada akhir pekan.,Neutral
+FB055,2026-10-12,Produk,Harga terjangkau dan kualitasnya memuaskan.,Positive
+FB056,2026-10-15,Pengiriman,Harga terlalu mahal untuk kualitas seperti ini.,Negative
+FB057,2026-10-18,Pelayanan,Pesanan dibuat melalui aplikasi pada pagi hari.,Neutral
+FB058,2026-10-21,Pengiriman,Fitur baru sangat membantu pekerjaan saya.,Positive
+FB059,2026-10-24,Pelayanan,Fitur sering bermasalah dan tidak membantu.,Negative
+FB060,2026-10-27,Aplikasi,Terdapat pilihan pembayaran transfer dan tunai.,Neutral
+FB061,2026-08-01,Pelayanan,Proses pembayaran lancar tanpa kendala.,Positive
+FB062,2026-08-04,Aplikasi,Pembayaran gagal berkali-kali tanpa penjelasan.,Negative
+FB063,2026-08-07,Harga,Saya membaca informasi produk sebelum membeli.,Neutral
+FB064,2026-08-10,Aplikasi,"Tempat bersih, nyaman, dan pelayanannya baik.",Positive
+FB065,2026-08-13,Harga,Tempat kotor dan pelayanannya sangat buruk.,Negative
+FB066,2026-08-16,Produk,Lokasi toko berada tidak jauh dari rumah.,Neutral
+FB067,2026-08-19,Harga,Respon customer service cepat dan solutif.,Positive
+FB068,2026-08-22,Produk,Customer service tidak memberikan solusi.,Negative
+FB069,2026-08-25,Pengiriman,Akun saya dibuat pada bulan ini.,Neutral
+FB070,2026-08-28,Produk,"Barang sesuai deskripsi, kualitasnya bagus.",Positive
+FB071,2026-08-31,Pengiriman,Barang tidak sesuai deskripsi dan mengecewakan.,Negative
+FB072,2026-09-03,Pelayanan,Pembaruan aplikasi tersedia sejak minggu lalu.,Neutral
